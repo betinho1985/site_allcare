@@ -1,0 +1,1192 @@
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:28:01) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:38:28) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:38:33) [GET]
+Rendering homes/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:39:48) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:39:56) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:39:57) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 18:40:55) [GET]
+Rendering abouts/index
+Completed in 10ms (View: 6 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 18:40:58) [GET]
+Rendering abouts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:41:00) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 18:52:24) [GET]
+Rendering contacts/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 18:52:34) [GET]
+Rendering homes/index
+Completed in 6ms (View: 4 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:09:32) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:13:26) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:13:29) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:14:09) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:14:09) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/slides/scene3/allcare.png" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:14:09) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:14:40) [GET]
+Rendering homes/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:14:40) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/slides/scene3/allcare.png" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:14:41) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:14:46) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:14:47) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/slides/scene3/allcare.png" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:14:47) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:15:24) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:15:24) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/slides/scene3/allcare.png" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:15:24) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:16:00) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:16:00) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:17:58) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:17:58) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:21:56) [GET]
+Rendering homes/index
+Completed in 59ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:21:56) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:22:10) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:22:11) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:22:33) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:22:33) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:24:22) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:24:22) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:26:49) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:26:49) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:26:56) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:26:57) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/backgrounds/color-splash.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:27:09) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:28:30) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:29:28) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:29:42) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:29:43) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:31:39) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:31:54) [GET]
+Rendering homes/index
+Completed in 4ms (View: 3 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:32:40) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:22) [GET]
+Rendering homes/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:30) [GET]
+Rendering homes/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:30) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:30) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:30) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:31) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:31) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:34:31) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:35:05) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:37:14) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:37:25) [GET]
+Rendering homes/index
+Completed in 2ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 19:37:46) [GET]
+Rendering abouts/index
+Completed in 13ms (View: 9 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:37:48) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:38:23) [GET]
+Rendering homes/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:38:26) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:38:28) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:38:35) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:38:36) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:38:39) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:38:53) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:43:06) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:48:20) [GET]
+Rendering homes/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:50:37) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 19:51:48) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 19:51:53) [GET]
+Rendering abouts/index
+Completed in 10ms (View: 7 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 19:52:47) [GET]
+Rendering abouts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing ServicesController#index (for 127.0.0.1 at 2014-09-14 19:52:49) [GET]
+Rendering services/index
+Completed in 4ms (View: 3 | 200 OK [http://0.0.0.0/services]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 19:52:56) [GET]
+
+ActionController::RoutingError (No route matches "/contact.html" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 19:53:05) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 5 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 19:57:15) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 19:57:21) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 19:57:23) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 19:57:39) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 19:58:01) [GET]
+Rendering contacts/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:01:55) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:01:56) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:02:41) [GET]
+Rendering contacts/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:05:22) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:05:44) [GET]
+Rendering contacts/index
+Completed in 4ms (View: 3 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:05:56) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:05:59) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:06:09) [GET]
+Rendering contacts/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:06:36) [GET]
+Rendering contacts/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:07:26) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:07:31) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:07:31) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:07:52) [GET]
+Rendering contacts/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 20:08:05) [GET]
+
+ActionController::RoutingError (No route matches "/sign-in.html" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 20:19:54) [GET]
+Rendering abouts/index
+Completed in 8ms (View: 5 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:20:08) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:24:33) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 20:24:41) [GET]
+Rendering homes/index
+Completed in 4ms (View: 3 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 20:25:12) [GET]
+Rendering homes/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 20:26:23) [GET]
+Rendering abouts/index
+Completed in 14ms (View: 11 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing ServicesController#index (for 127.0.0.1 at 2014-09-14 20:26:26) [GET]
+Rendering services/index
+Completed in 6ms (View: 4 | 200 OK [http://0.0.0.0/services]
+
+
+Processing ClientsController#index (for 127.0.0.1 at 2014-09-14 20:26:30) [GET]
+Rendering clients/index
+Completed in 7ms (View: 5 | 200 OK [http://0.0.0.0/clients]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-09-14 20:26:49) [GET]
+Rendering partners/index
+Completed in 5ms (View: 3 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-09-14 20:26:49) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 20:27:03) [GET]
+
+ActionController::RoutingError (No route matches "/sign-in.html" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:32:57) [GET]
+Rendering contacts/index
+Completed in 7ms (View: 4 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-09-14 20:33:00) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts?]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-09-14 20:34:01) [GET]
+
+ActionController::RoutingError (No route matches "/contact.html" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-09-14 20:36:47) [GET]
+Rendering abouts/index
+Completed in 9ms (View: 6 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-09-14 20:36:51) [GET]
+Rendering homes/index
+Completed in 6ms (View: 4 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-10-02 00:32:16) [GET]
+Rendering abouts/index
+Completed in 6ms (View: 5 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:32:18) [GET]
+Rendering homes/index
+Completed in 8ms (View: 4 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:32:39) [GET]
+Rendering homes/index
+Completed in 2ms (View: 2 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:33:21) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:33:33) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:33:43) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:33:44) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:33:44) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:33:44) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:33:44) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:34:06) [GET]
+Rendering homes/index
+Completed in 6ms (View: 3 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:36:56) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:37:09) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:37:09) [GET]
+Rendering homes/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:37:22) [GET]
+Rendering homes/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing HomesController#index (for 127.0.0.1 at 2014-10-02 00:37:31) [GET]
+Rendering homes/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/homes]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2014-10-02 00:37:40) [GET]
+
+ActionController::RoutingError (No route matches "/assets/img/slides/scene2/enf.jpg" with {:method=>:get}):
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/carlos/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_load'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb:86:in `debug_program'
+  /home/carlos/.rvm/gems/ruby-1.8.7-head/gems/ruby-debug-ide-0.4.23.beta1/bin/rdebug-ide:110
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ServicesController#index (for 127.0.0.1 at 2014-10-02 01:06:44) [GET]
+Rendering services/index
+Completed in 8ms (View: 5 | 200 OK [http://0.0.0.0/services]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:11:02) [GET]
+Rendering partners/index
+Completed in 5ms (View: 4 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:11:04) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing ClientsController#index (for 127.0.0.1 at 2014-10-02 01:11:21) [GET]
+Rendering clients/index
+Completed in 6ms (View: 4 | 200 OK [http://0.0.0.0/clients]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:11:25) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:12:07) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:12:41) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:12:45) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:12:52) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:13:27) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:13:35) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:13:38) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:13:38) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:13:38) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:13:56) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:09) [GET]
+Rendering partners/index
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:09) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:09) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:09) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:16) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:16) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:16) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:14:32) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:15:04) [GET]
+Rendering partners/index
+Completed in 5ms (View: 3 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:15:17) [GET]
+Rendering partners/index
+Completed in 5ms (View: 3 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:15:34) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:15:37) [GET]
+Rendering partners/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:15:42) [GET]
+Rendering partners/index
+Completed in 1ms (View: 0 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing PartnersController#index (for 127.0.0.1 at 2014-10-02 01:16:15) [GET]
+Rendering partners/index
+Completed in 6ms (View: 4 | 200 OK [http://0.0.0.0/partners]
+
+
+Processing ClientsController#index (for 127.0.0.1 at 2014-10-02 01:16:25) [GET]
+Rendering clients/index
+Completed in 6ms (View: 4 | 200 OK [http://0.0.0.0/clients]
+
+
+Processing ClientsController#index (for 127.0.0.1 at 2014-10-02 01:17:42) [GET]
+Rendering clients/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/clients]
+
+
+Processing ClientsController#index (for 127.0.0.1 at 2014-10-02 01:17:48) [GET]
+Rendering clients/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/clients]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-10-02 01:17:50) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-10-02 01:18:09) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-10-02 01:18:13) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1 | 200 OK [http://0.0.0.0/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2014-10-02 01:18:40) [GET]
+Rendering contacts/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/contacts]
