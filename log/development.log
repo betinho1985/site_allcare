@@ -6000,3 +6000,43 @@ Completed in 10ms (View: 8 | 200 OK [http://0.0.0.0/clients]
 Processing ClientsController#index (for 127.0.0.1 at 2014-11-02 20:23:45) [GET]
 Rendering clients/index
 Completed in 3ms (View: 2 | 200 OK [http://0.0.0.0/clients]
+
+
+Processing AboutsController#index (for 127.0.0.1 at 2014-11-02 20:25:52) [GET]
+Rendering abouts/index
+Completed in 32ms (View: 31 | 200 OK [http://0.0.0.0/abouts]
+
+
+Processing ServicesController#index (for 127.0.0.1 at 2014-11-02 20:25:55) [GET]
+Rendering services/index
+Completed in 38ms (View: 37 | 200 OK [http://0.0.0.0/services]
+
+
+Processing NewsController#index (for 127.0.0.1 at 2014-11-02 20:25:58) [GET]
+Rendering news/index
+Completed in 63ms (View: 15 | 200 OK [http://0.0.0.0/news]
+
+
+Processing NewsController#index (for 127.0.0.1 at 2014-11-02 20:31:02) [GET]
+Rendering news/index
+Completed in 8ms (View: 6 | 200 OK [http://0.0.0.0/news]
+
+
+Processing NewsController#index (for 127.0.0.1 at 2014-11-02 20:32:30) [GET]
+Rendering news/index
+Completed in 10ms (View: 8 | 200 OK [http://0.0.0.0/news]
+
+
+Processing NewsController#index (for 127.0.0.1 at 2014-11-02 20:34:03) [GET]
+Rendering news/index
+Completed in 7ms (View: 6 | 200 OK [http://0.0.0.0/news]
+
+
+Processing NewsController#index (for 127.0.0.1 at 2014-11-02 20:35:23) [GET]
+Rendering news/index
+Completed in 8ms (View: 7 | 200 OK [http://0.0.0.0/news]
+
+
+Processing NewsController#index (for 127.0.0.1 at 2014-11-02 20:36:29) [GET]
+Rendering news/index
+Completed in 9ms (View: 8 | 200 OK [http://0.0.0.0/news]
